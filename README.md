@@ -1,1 +1,1 @@
-This is example: how to use [divkit.tech](https://divkit.tech/)https://divkit.tech/ offline.
+This is example: how to use [divkit](https://divkit.tech/)https://divkit.tech/ offline.
